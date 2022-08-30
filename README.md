@@ -19,7 +19,7 @@ Come visit my [website](https://www.ryanoh.io/) for more information.
         <p align="center">
   <a href="https://github.com/ryanohcodes/personalPortfolio" target="_blank">
     Repo
-  </a>
+  </a> | 
   <a href="https://www.ryanoh.io" target="_blank">
     Website
   </a>
@@ -37,7 +37,7 @@ Come visit my [website](https://www.ryanoh.io/) for more information.
           
   <a href="https://github.com/ryanohcodes/donutsAndCoffee" target="_blank">
     Repo
-  </a>
+  </a> | 
   <a href="https://coffeeanddonuts.netlify.app" target="_blank">
     Website
   </a>
