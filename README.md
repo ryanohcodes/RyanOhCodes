@@ -1,15 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ryan Oh</h1>
 <h3 align="center">A Full Stack developer based in Southern California</h3>
 
-- 🌱 I’m currently learning **the MERN stack (MongoDB, Express, React, Node)**
+I’m a developer with focus on **the MERN stack (MongoDB, Express, React, Node)**
 
-- 👨‍💻 All of my projects are available at [https://www.ryanoh.io/](https://www.ryanoh.io/)
+Come visit my [website](https://www.ryanoh.io/) for more information.
 
-- 💬 Ask me about **anything!**
-
-- 📫 How to reach me **the.oh.codes@gmail.com**
-
-- ⚡ Fun fact **I make my own cold brew coffee**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
