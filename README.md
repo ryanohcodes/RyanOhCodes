@@ -49,9 +49,7 @@ Come visit my [website](https://www.ryanoh.io/) for more information.
       <h3 align="center">ClassRoom</h3>
       <br />
         <a target="_blank" href="https://classroom.cyclic.app">
-          <video width="100%" controls autoplay>
-              <source src="images/mvp.mov" type="video/mp4">
-          </video>
+          <img src="images/mvp.gif" width="100%" alt="classroom"/>
         </a>
       <br />
         <p align="center">
