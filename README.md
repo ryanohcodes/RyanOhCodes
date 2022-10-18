@@ -44,12 +44,14 @@ Come visit my [website](https://www.ryanoh.io/) for more information.
           <p><strong>HTML5, CSS3, & Javascript</strong> - A cozy one stop donut shop</p>
       </td>
   </tr>
-  <!-- <tr>
+  <tr>
     <td width="50%" valign="top">
       <h3 align="center">ClassRoom</h3>
       <br />
         <a target="_blank" href="https://classroom.cyclic.app">
-          <img src="images/mvp.gif" width="100%" alt="Portfolio"/>
+          <video width="100%" controls autoplay>
+              <source src="images/mvp.mov" type="video/mp4">
+          </video>
         </a>
       <br />
         <p align="center">
@@ -62,7 +64,7 @@ Come visit my [website](https://www.ryanoh.io/) for more information.
             </p>
               <p><strong>HTML5, Tailwind CSS, Javascript, Express, MongoDB, Node</strong> - Responsive full-stack web application that helps users pass certification exams</p>
     </td> 
-  </tr> -->
+  </tr>
 </table>
 
 
