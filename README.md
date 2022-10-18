@@ -9,24 +9,60 @@ Come visit my [website](https://www.ryanoh.io/) for more information.
 <h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2">
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">RyanOh.io</h3>
+      <td width="50%" valign="top">
+        <h3 align="center">RyanOh.io</h3>
+        <br />
+          <a target="_blank" href="https://www.ryanoh.io">
+            <img src="images/landing.gif" width="100%" alt="Portfolio"/>
+          </a>
+        <br />
+          <p align="center">
+    <a href="https://github.com/ryanohcodes/personalPortfolio" target="_blank">
+      Repo
+    </a>
+    <a href="https://www.ryanoh.io" target="_blank">
+      Website
+    </a>
+        </p>
+          <p><strong>HTML5, CSS3, & Javascript</strong> - Responsive personal portfolio site with contact information.</p>
+      </td>
+      <td width="50%" valign="top">
+        <h3 align="center">Coffee and donuts</h3>
+          <br />
+          <a target="_blank" href="https://coffeeanddonuts.netlify.app">
+            <img src="images/gif1.gif" width="100%" alt="coffee"/>
+          </a>
+          <br />
+          <p align="center">
+    <a href="https://github.com/ryanohcodes/donutsAndCoffee" target="_blank">
+      Repo
+    </a>
+    <a href="https://coffeeanddonuts.netlify.app" target="_blank">
+      Website
+    </a>
+        </p>
+          <p><strong>HTML5, CSS3, & Javascript</strong> - A cozy one stop donut shop</p>
+      </td>
+  </tr>
+  <tr>
+    <td width="100%" valign="top">
+      <h3 align="center">ClassRoom</h3>
       <br />
-        <a target="_blank" href="https://www.ryanoh.io">
-          <img src="images/landing.gif" width="100%" alt="Portfolio"/>
+        <a target="_blank" href="https://classroom.cyclic.app">
+          <img src="images/mvp.gif" width="100%" alt="Portfolio"/>
         </a>
       <br />
         <p align="center">
-  <a href="https://github.com/ryanohcodes/personalPortfolio" target="_blank">
-    Repo
-  </a>
-  <a href="https://www.ryanoh.io" target="_blank">
-    Website
-  </a>
-      </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - Responsive personal portfolio site with contact information.</p>
+        <a href="https://github.com/ryanohcodes/examGuide" target="_blank">
+          Repo
+        </a>
+        <a href="https://classroom.cyclic.app" target="_blank">
+          Website
+        </a>
+            </p>
+              <p><strong>HTML5, Tailwind CSS, Javascript, Express, MongoDB, Node</strong> - Responsive full-stack web application that helps users pass certification exams</p>
     </td>
-    <td width="50%" valign="top">
+    <!-- <td width="50%" valign="top">
       <h3 align="center">Coffee and donuts</h3>
         <br />
         <a target="_blank" href="https://coffeeanddonuts.netlify.app">
@@ -34,7 +70,6 @@ Come visit my [website](https://www.ryanoh.io/) for more information.
         </a>
         <br />
         <p align="center">
-          
   <a href="https://github.com/ryanohcodes/donutsAndCoffee" target="_blank">
     Repo
   </a>
@@ -43,7 +78,7 @@ Come visit my [website](https://www.ryanoh.io/) for more information.
   </a>
       </p>
         <p><strong>HTML5, CSS3, & Javascript</strong> - A cozy one stop donut shop</p>
-    </td>
+    </td> -->
   </tr>
 </table>
 
