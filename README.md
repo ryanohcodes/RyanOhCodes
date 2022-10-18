@@ -53,6 +53,7 @@ Come visit my [website](https://www.ryanoh.io/) for more information.
         </a>
       <br />
         <p align="center">
+<<<<<<< HEAD
         <a href="https://github.com/ryanohcodes/examGuide" target="_blank">
           Repo
         </a>
@@ -61,6 +62,16 @@ Come visit my [website](https://www.ryanoh.io/) for more information.
         </a>
             </p>
               <p><strong>HTML5, Tailwind CSS, Javascript, Express, MongoDB, Node</strong> - Responsive full-stack web application that helps users pass certification exams</p>
+=======
+  <a href="https://github.com/ryanohcodes/personalPortfolio" target="_blank">
+    Repo
+  </a> | 
+  <a href="https://www.ryanoh.io" target="_blank">
+    Website
+  </a>
+      </p>
+        <p><strong>HTML5, CSS3, & Javascript</strong> - Responsive personal portfolio site with contact information.</p>
+>>>>>>> 85594880b43aa1265a6119c3fca8c403d382f600
     </td>
     <!-- <td width="50%" valign="top">
       <h3 align="center">Coffee and donuts</h3>
@@ -72,7 +83,7 @@ Come visit my [website](https://www.ryanoh.io/) for more information.
         <p align="center">
   <a href="https://github.com/ryanohcodes/donutsAndCoffee" target="_blank">
     Repo
-  </a>
+  </a> | 
   <a href="https://coffeeanddonuts.netlify.app" target="_blank">
     Website
   </a>
