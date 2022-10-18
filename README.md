@@ -19,7 +19,7 @@ Come visit my [website](https://www.ryanoh.io/) for more information.
           <p align="center">
     <a href="https://github.com/ryanohcodes/personalPortfolio" target="_blank">
       Repo
-    </a>
+    </a><span>|</span>
     <a href="https://www.ryanoh.io" target="_blank">
       Website
     </a>
@@ -36,7 +36,7 @@ Come visit my [website](https://www.ryanoh.io/) for more information.
           <p align="center">
     <a href="https://github.com/ryanohcodes/donutsAndCoffee" target="_blank">
       Repo
-    </a>
+    </a><span>|</span>
     <a href="https://coffeeanddonuts.netlify.app" target="_blank">
       Website
     </a>
@@ -44,7 +44,7 @@ Come visit my [website](https://www.ryanoh.io/) for more information.
           <p><strong>HTML5, CSS3, & Javascript</strong> - A cozy one stop donut shop</p>
       </td>
   </tr>
-  <tr>
+  <!-- <tr>
     <td width="50%" valign="top">
       <h3 align="center">ClassRoom</h3>
       <br />
@@ -55,14 +55,14 @@ Come visit my [website](https://www.ryanoh.io/) for more information.
         <p align="center">
         <a href="https://github.com/ryanohcodes/examGuide" target="_blank">
           Repo
-        </a>
+        </a><span>|</span>
         <a href="https://classroom.cyclic.app" target="_blank">
-          Website
+          Website 
         </a>
             </p>
               <p><strong>HTML5, Tailwind CSS, Javascript, Express, MongoDB, Node</strong> - Responsive full-stack web application that helps users pass certification exams</p>
     </td> 
-  </tr>
+  </tr> -->
 </table>
 
 
