@@ -13,7 +13,7 @@ Come visit my [website](https://www.ryanoh.io/) for more information.
         <h3 align="center">RyanOh.io</h3>
         <br />
           <a target="_blank" href="https://www.ryanoh.io">
-            <img src="images/landing.gif" width="100%" alt="Portfolio"/>
+            <img src="images/better.gif" width="100%" alt="Portfolio"/>
           </a>
         <br />
           <p align="center">
