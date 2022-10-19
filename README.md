@@ -26,26 +26,7 @@ Come visit my [website](https://www.ryanoh.io/) for more information.
         </p>
           <p><strong>HTML5, CSS3, & Javascript</strong> - Responsive personal portfolio site with contact information.</p>
       </td>
-      <td width="50%" valign="top">
-        <h3 align="center">Coffee and donuts</h3>
-          <br />
-          <a target="_blank" href="https://coffeeanddonuts.netlify.app">
-            <img src="images/gif1.gif" width="100%" alt="coffee"/>
-          </a>
-          <br />
-          <p align="center">
-    <a href="https://github.com/ryanohcodes/donutsAndCoffee" target="_blank">
-      Repo
-    </a><span>|</span>
-    <a href="https://coffeeanddonuts.netlify.app" target="_blank">
-      Website
-    </a>
-        </p>
-          <p><strong>HTML5, CSS3, & Javascript</strong> - A cozy one stop donut shop</p>
-      </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
+         <td width="50%" valign="top">
       <h3 align="center">ClassRoom</h3>
       <br />
         <a target="_blank" href="https://classroom.cyclic.app">
@@ -62,7 +43,7 @@ Come visit my [website](https://www.ryanoh.io/) for more information.
             </p>
               <p><strong>HTML5, Tailwind CSS, Javascript, Express, MongoDB, Node</strong> - Responsive full-stack web application that helps users pass certification exams</p>
     </td> 
-  </tr>
+  </tr>  
 </table>
 
 
