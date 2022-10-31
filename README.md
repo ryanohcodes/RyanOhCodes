@@ -1,4 +1,4 @@
-<img src="images/Ryan.png" width="100%">
+<img src="images/trimmedBanner.png" width="100%">
 <h3 align="center">A Full Stack developer based in Southern California</h3>
 
 I’m a developer with focus on **the MERN stack (MongoDB, Express, React, Node)**
